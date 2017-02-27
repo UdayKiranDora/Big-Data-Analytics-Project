@@ -1,0 +1,20 @@
+zebra - 0.9951316
+wildlife - 0.9900808
+safari - 0.9878026
+wild - 0.9796124
+mammal - 0.9780885
+animal - 0.9746088
+nature - 0.97324497
+reserve - 0.9655447
+savanna - 0.9603504
+barbaric - 0.94386697
+equid - 0.93536663
+game - 0.93169373
+conservation - 0.9237086
+Serengeti - 0.9128543
+no person - 0.9124676
+two - 0.9075011
+park - 0.90680695
+grass - 0.9061872
+grassland - 0.8981205
+national - 0.87025607
